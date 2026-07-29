@@ -1,5 +1,5 @@
 Hello from GitHub
 Hello from Local
 Hello from fork
-أhellow secand fork
+hellow secand fork
 Hello from Local agin
